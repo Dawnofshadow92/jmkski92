@@ -1,0 +1,29 @@
+body {
+    color: #414141;  /* Dark gray */
+    background-color: #EEEEEE; /* Light Gray */
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: left;
+}
