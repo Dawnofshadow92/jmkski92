@@ -1,0 +1,104 @@
+/*This is the first stylesheet known as stylesheet 1 */
+
+
+
+/* MENU ITEMS */
+
+.menu-container {
+    color: #fff;
+    background-color: darkorange;  /* Blue */
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .menu {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* HEADER Items */
+
+  .header-container {
+    color: #dab359;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+  }
+
+
+  
+  .header {
+    width: 900px;
+    height: 282px;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+
+.subscribe {
+  width: 80px;
+}
+
+  .social {
+    align-self: flex-end;
+    background-color: white;
+    margin-bottom: 20px;
+  }
+
+  .fa {
+    padding: 10px;
+  }
+
+
+  
+
+
+  /* BODY items */
+
+  .body-container {
+    color: black;
+    background-color: #fee6d6;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .body {
+    height: 300px;
+    width: 900px;
+  }
+
+
+  /* link grid items */
+  .link-grid-container {
+    display: flex;
+    justify-content: center;
+    background-color: darkorange;
+  }
+  
+  .link-grid {
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .link-grid-item {
+    border: 1px solid #fff;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+  }
+
+
+  /* FOOTER items */
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    background-color: darkorange;
+  }
+
+
